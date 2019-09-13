@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "DeliveryClient"
+    }
+  },
+  "defaultProject": "DeliveryClient",
+  "cli": {
+    "defaultCollection": "@nativescript/schematics"
+  }
 }
